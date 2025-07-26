@@ -1,0 +1,29 @@
+{
+  "name": "tuto-promise",
+  "version": "1.0.0",
+  "description": "first tuto promise with express",
+  "keywords": [
+    "promise",
+    "express",
+    "node",
+    "web2"
+  ],
+  "homepage": "https://github.com/Mathieu-bot/tuto-promise#readme",
+  "bugs": {
+    "url": "https://github.com/Mathieu-bot/tuto-promise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu-bot/tuto-promise.git"
+  },
+  "license": "ISC",
+  "author": "Mathieu",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
